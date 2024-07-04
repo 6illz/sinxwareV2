@@ -1,1 +1,154 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _eZrYEKTBoWwP = a; end)); return(function(o,...)local a;local d;local f;local s;local u;local l;local e=24915;local n=0;local t={};while n<773 do n=n+1;while n<0x307 and e%0x123a<0x91d do n=n+1 e=(e-710)%18707 local r=n+e if(e%0x1f0c)>=0xf86 then e=(e+0x203)%0x1127 while n<0x38f and e%0xfdc<0x7ee do n=n+1 e=(e-363)%36488 local a=n+e if(e%0x49e0)<=0x24f0 then e=(e*0x206)%0xada local e=29359 if not t[e]then t[e]=0x1 s={};end elseif e%2~=0 then e=(e-0x142)%0xc306 local e=27666 if not t[e]then t[e]=0x1 u=tonumber;end else e=(e+0x3bb)%0xbd77 n=n+1 local e=24402 if not t[e]then t[e]=0x1 end end end elseif e%2~=0 then e=(e*0x125)%0xb0ed while n<0x157 and e%0x4af6<0x257b do n=n+1 e=(e*574)%40672 local r=n+e if(e%0x23ba)<=0x11dd then e=(e+0x24a)%0x4384 local e=14588 if not t[e]then t[e]=0x1 f="\4\8\116\111\110\117\109\98\101\114\95\114\73\73\79\76\117\74\0\6\115\116\114\105\110\103\4\99\104\97\114\77\97\90\72\84\112\113\121\0\6\115\116\114\105\110\103\3\115\117\98\101\122\111\119\81\119\99\106\0\6\115\116\114\105\110\103\4\98\121\116\101\71\84\117\117\77\122\70\89\0\5\116\97\98\108\101\6\99\111\110\99\97\116\76\102\75\118\75\108\112\122\0\5\116\97\98\108\101\6\105\110\115\101\114\116\100\88\75\86\70\80\108\100\5";end elseif e%2~=0 then e=(e*0x222)%0xbb3f local e=90592 if not t[e]then t[e]=0x1 end else e=(e-0xbd)%0x24da n=n+1 local e=97618 if not t[e]then t[e]=0x1 d=function(t)local e=0x01 local function n(n)e=e+n return t:sub(e-n,e-0x01)end while true do local t=n(0x01)if(t=="\5")then break end local e=l.byte(n(0x01))local e=n(e)if t=="\2"then e=s._rIIOLuJ(e)elseif t=="\3"then e=e~="\0"elseif t=="\6"then a[e]=function(n,e)return o(8,nil,o,e,n)end elseif t=="\4"then e=a[e]elseif t=="\0"then e=a[e][n(l.byte(n(0x01)))];end local n=n(0x08)s[n]=e end end end end end else e=(e-0x1e7)%0x1943 n=n+1 while n<0x12f and e%0x2bd6<0x15eb do n=n+1 e=(e*642)%39965 local d=n+e if(e%0x4320)<=0x2190 then e=(e*0x15a)%0x342e local e=31040 if not t[e]then t[e]=0x1 a=getfenv and getfenv();end elseif e%2~=0 then e=(e+0x2e5)%0x5d60 local e=93659 if not t[e]then t[e]=0x1 a=(not a)and _ENV or a;end else e=(e+0x1c4)%0x6a5c n=n+1 local e=97886 if not t[e]then t[e]=0x1 l=string;end end end end end e=(e*865)%3410 end d(f);local e={};for n=0x0,0xff do local t=s.MaZHTpqy(n);e[n]=t;e[t]=n;end local function r(n)return e[n];end local l=(function(f,l)local o,t=0x01,0x10 local n={{},{},{}}local a=-0x01 local e=0x01 local d=f while true do n[0x03][s.ezowQwcj(l,e,(function()e=o+e return e-0x01 end)())]=(function()a=a+0x01 return a end)()if a==(0x0f)then a=""t=0x000 break end end local a=#l while e<a+0x01 do n[0x02][t]=s.ezowQwcj(l,e,(function()e=o+e return e-0x01 end)())t=t+0x01 if t%0x02==0x00 then t=0x00 s.dXKVFPld(n[0x01],(r((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+d)%0x100)));d=f+d;end end return s.LfKvKlpz(n[0x01])end);d(l(136,"PebkSLHnD&/y3+zan+"));d(l(215,"HpkntOqG7y<D/?{bkyO7{{p7nbOb7?<bGOb{n7Oy7O7n/{b{k1nDq5yD<Q7<Dtt7qt7DDb{7Nqp{tyGnyp?<{/pp{{pD<b?<b<k7OGt?GDDn?7hnp<G/G/Ot7npytnq<7<D7?<<pnktb7D<n?p{OnkOkO/GbDtbkb7?<;GyyDqbk^b?OqO7qDR{/:?k7n<G(yt?yb{k?Oppktn?n{{kqt7qy<pDGbn}ynnqq77D{/<b?nnO/7n77Dty7/tn/GtyD?ObykOxbOk<n<Dbqbbknqty{OpG<pqkyO<7{yn<?{{kGn{OG<nD/7?DOpqOq7q/O?tp:p{qtGqOkGbptn7qO7bDq?q8tkqO{G^7{D7FO3/nGGqn+O{bq*/nqqy7DOO{?1bn<OtGbDN?tZbnnt/G{y<<Db?D<{OG?yb/<{trbtxObG<yq/kYtn7nyykt<Gtv7nnOn7pDjDG/bk<ktO7yb<<?WDp?/Gk7?D??bPqtfq<7ty<?tbpnpnkq<n?q<b/pyOOGkn7/kbpp?tqGkGny7bnppn?O{7nDnGq"));local e=(-9049+(function()local t,n=0,1;(function(n,e)e(e(e,e),e(n and n,e))end)(function(a,e)if t>249 then return e end t=t+1 n=(n+292)%12797 if(n%276)>=138 then return e(e(e,e and e),e(a,a and a))else return e end return e end,function(e,a)if t>150 then return e end t=t+1 n=(n*727)%9235 if(n%338)<169 then n=(n-246)%29323 return a(a(e,a),e(a,e))else return e end return e end)return n;end)())local h=s.aSFIbmEu or s.fxscl_Gp;local de=(getfenv)or(function()return _ENV end);local m=1;local d=3;local f=4;local a=2;local function ne(b,...)local r=l(e,"b}xJnKtwMae6=TN#xN6xM6tnnr}6N#=Me}=#awaKwx}A6eeQtanx}6n9J=2wNJ6TaKxeJtxKAJNttwtJKeJ#==Mte4ateex6=a}MxTM6xMrMTw6yMa6te>M=t}fa:NNn=ma=JtT#=tMNtwn:txK#x=?6Nxeee}tan#xT7J=T6wMJtKJJxxMnK6JnkTNt6#}M=xMexK#=TKeNMwt%Ja}ex6=weTwtn#xMnJJ6}t#w==6iMttKJwyt6N=JaawKK}N6aJtenJ}=#K=NewMQKaJK}tNn6Tat=JeTaatNxe}NNt=NewwKnT=n=NewMqKaJxy6Mn=attn8}KNN=wNtNM=qa#_wNK6tM#tMMeMMttnPftN=6eaK16xet6wnhwK6Tx6n}je=MJK=JK-NNwd8#N6xnNxN#TTte#=#=teNttK}Jw}nN86JMN!KNa6nMTttaat}K#xNVM#nawaJt#n}x##6Te6t}#H=}6=KN}}wN#TKxn=}aNw;naxxntJaxt=e=Ne#w#N==Ja=wKnNxwnDJx#xMTn#wJxtT:}J=}J6axx#z=TN6wa(e=6}MTKa}n}6NMK6nxleNJ6=NxTT6=aJKN}nx.#MT}eKwT}a9notT=e#a:S}N}6.MatxMNwTK6JN6#T66xawKaPN6Maxtwn:}aJwJa}aNeKMJ}aTTe}eS#J}+=KT#eTweaMxK6aew#KKx=Ne6MM=xt^MTKeNMwe}a6MKKeJ1}xNe6nw6teKn}MM#wTJN}w#R}f;wN#ena#wKn#}TuJTN6=K#KTx#}KNw6NatKNnTxn8nT+6nxn}qTJe=MKe*aMwJKnxaXTNJ=xantJx=xJN6T}e#MKn#JaEKNw6KenXwNg6tM#tMe#w#te=NeKwNKwJ-;aNxW}Tnw_n6}##MT}#J#/6Ta=wJNe=eaawxn6awttnnxw##=xe=wMnx#weDwwKoxa3xT66n6}etn}}M#}=eeJw=KKMwnwNJ=Jaxt6nnw}K6nw}=Tn6TanwMnexxaewMnaxx#6xn}=#a=Me=weKaJ}a#MnnNxwf.}6x}#T=MexMMnxJ}}6T#eJaKwTnJxJaJwxnx}6#n}Ky6N1=eeKt=nM}TZaw}tNxH#aTx##N==teax#nNxe_tTMt=a=K#neT7#aTneeMMKxxa}JTT6KnewenKxa#tMwMTMMt}Ja#wNx6an#KN}n6TaNt=nK}NnJJ#^=NJ=wMnwanwJM#TNJnTJg#=TKeNNt=KaJMnnnjaNM=ea}awKMK}HJM#t6JN}w#c5ehKN#6TeJt6Nx6=a}tenJwvKent}6MJKTJxG6Nnxn#wT=eTxn&JTJe=MKexeaw}KIxa#=Tt6aM6ixNp6}MetJMJwetx}n,#NN=KaDOtTT6tM#tMn}}exKU=eMMxKwJ<8aJA}=O}Txnaxt#MT}ee=t=6eJw=n=xJ(TwKKJxn#TTtrnT}eneaMKKexe}0waKGxaBxT66nxTTxw#}eJ#}wM?t=t6T}=T}#6=att6nn}TnaJMxxNtKTJ6P=NK6NN6TK=}atnNJTxwN6txJN}}Ne=JN=Tt=qM=tNnT6Ka=tnJT}ttxJ}:##x=eMTwwnJTwLxTN6HMN}nxN}xN6K6JM4eNJ6=NKTeeMaaKNnn}NMtKTJt2#NM=}weNxM=xMqxTw6zMaeNeew6K==ae6wMK}xenKn6xw#x==6xK=t}Jw}JN#MaJ}t=Kutw6xa=xN#xJtTJ6xMxK6Jnt7naJ}#TTt6Mtew}JN6}a}t<Ja}xJ#xa}KNea}aTwKnNxx#etMnw}w#%=a#_Ne=Matt=KM3n#e==nn}T#M=#ewMrKaeJ1TNn6Tatt#nMx}8N}Je#awKNJw}0J=J}})Nt6zM6KxJa}##T6te}MxKwxaz#NK6txN}6TT6tM#TeeJaxKnJ#}MNJ=6aatT}=Ne=JenwwK}J}CxT#6MMNt=ntNe=Jaawxn6t#txn#6}MMt}Je}JN==KTx6wKJJL?xT66nNR=#e}MnKeJM7ew#K#xNFwN.q6kwTaawMxtMnK}}Nn6#Jt}xNK6Naw6J6MMNtentN MMtJteNwna66NxxaMTxeVwTa6xM6=6exMeKtxTc##+KtJxlKTN6wDkT66}MMtnn}eaMaKMJ}.ex=xa#tTKe=t=KeJn}q#ut(ntl#NM=}NsT=6eMan=J=}}#6=weNMMJxJnmnNK=exT}=T=6KMN6ne#MMt }NdaN<6KMxw=KJxJY}TJ6MtttCJnqTNw=awKM}KeJ}aew}nexJ#=TKNN#{eGJ6}xN6=naTwt=#wJn}TT6MM=tKJNKTtxxe_#NcKnJJutT#6MaKtenJ}=#MT}ewMYKawTwWKT=(ett#nMx}n7J=}eNae=a=w}K6xw:NNMaxantnnKxeMTteJ=}KNNxNYKNT6aaiwxKJ6taotMn}}e#JNweKwNKwnxwaNx6=anw<nt}##MT}#MMJKTJK8#Nw=xaaaxn6xn#NTt6lMMtxJe}aJN=KaNwwKtxaWJT66KMTteMw}M#}=eeaw=KtxN.6xM6aaxt6KN}T#w=#eMTtKeJn/=NK6NawwHnaKt#6TKeTMwK#JM}}Ne=wa=wtnNxw%uTa6xM66aJT}wN#=Me}weKJJx-NTN6MaCw6nx}=#n=TetMJeLJ}8eNJ=NaKt#nwJxtaTxe=MnK#Jtd#NM=}=wwJnTxK##Tw6xMatxna}nNN=terwMK}xe?J#t6KM#twn}}a#x=6enMqKtJu8MNJ6eaJt=naJM#wTjeaa=K6JK0TNt}naMwxnexn#=TKeNeTttJa}JN6TeaTwwn#x=z}TN#6M=tKJNxT#W=eexw#a=xT(tT#Txa}t6nJ}=na=NeMM0KeJxD6Nn6Taet#nax}#6TJe=MKKNex}+Ne=xa6wnnTxt##T=6}M6tJJN}KNN=weyTnKxx6WnTN6tM#tMnJ}e#J==eMM6KwJ)uaxNxe#KT}e#MTK#xn_T#K=}aew=Ne=waawxn6tMtxnaxJ#eTA6J}JN==KaNwwKnxa2xT6=t#TttJ#}M#x=eeJw=wKwTQwNh6aaxt6nt}T#txweMM}KeJK+=Nt6Naw=6naxx#6TKeTMtK#n}}}Ne=Ja#wtnNxw{;Jx6KawtnJT}tJCxe}nNa6#e}wanJ8e#aNJew}T#n=Tetw#KMJ}ceNJ6NaKtNnwx?#aTxe6=nK#JtB#NM=}aewJx=tni}T#6(MatxM6MJt4x#}JN}=raMhtN}6KMNtwaKKTK6JMTtM7Kwx#:MN}}xatt#nK}N#wJN&N#aK6JnzTNt6#eew}nexJ#=n}eNMwt<Ja}xN6=ne#MJn#xao}N}6JM=tKKNxe#F=eexw=KnJtVt#}==a}t=nJx}#K=NewMWt=JxWNNn6Tatt#nMn}s6TJe#MKt}Jw}xNaNx6twnK2xtmxTM6aMetJet}K#}=weJwaKxx6xnxx6taxtMnn}e#w==6waxKwJnzaNK66antTntx=#MTteeMJK=JKsNBw=#aawwn6xa#TTMe#eMtwJe}MN==eaNwMK,xa<#T66aMTt6J#}M#}Ne6Nw=KexN5=N<6Taxt6en}T#w=#eTM}K=JJ}=-:6Nawwln#xx#=TneTN}K#JM}}N6=Ja=wKtwxwiRTa6KaKtnJT}tJtxT}K=e6#MTwNnJxayJt=n6}6#n=T#TNN=ea=wTKJ}T#MTJneJn#aTxe6T6==eMw6n=}KXa=a6KMewKnw}##6TtM6MJKtJn}Jw6KMxeZJT=!6#J=e6nMMtn#TewMwKtx#ZMxMx##=6#eeautTJaP=NwKNJMATNt6#{KTx6NM6#NTKeNMwtsJa}xN6*nevwTn#xMz}xe}#NTTNeJMatJ==eMw6KnxTnNnn}a#TTNe6}##T=NewM_eae}wNnTJ}##TN6txn)JTJe=MKe6aMwwKwx6)#Na6}M6SxNt6}MetJMxwNK=x6NtNx=naNwMxs}N#MTneK}T#a==eKwN=UeZten6xTZww?KJ}##MT}NT#M=NewwJKKJnT=TJ6MMat#Jw6xa1t}Je}JJnJev6TM6NaMt6J#6wa0ttJ#}MK#x#}ew#tMxNkwN> p#wT#awMQtMJn9TN#e=aMw#Knxe?=Nn6xa}taTw6TMtK#JMKaK#JS#TNJ6Ta>tnx6x}#eTMMTwwt}J=eJweKJx=+KTN6waHtanKxn#n=Tet=x=,axw=nn}#,aTJ6axJ#eTxe6Mn6tJa}%NM=}ae=6n#xa#NTw6k#}Twexwa#(TQa#wMK}w}tMKI0M#JTa6tMxKKJYewM}Ktx#dMnM}6DoT}nK}N#wTkea==K6Jn5T#Mx=aMw}nexa#=TKeNewtnJa}xN6=naTMTn#xMjeTe6nM=ttJN}w#AT66=w6KtxT+eT#6Ma}MeKN}=#w=NeaMHtaJx}T#M6Taat#t}x}#eTJ==MTKNJe}/N==x6JwnK#KN##TT6}M#tJJ=}KNNNJeEw=KxJZknT#6te#w?n}}T#J=#eKM#KwJm}6Nx6Nant#ntx}#M#}e#MJK#JK}}NwTtaaaxn#xnjLTt6xMMtMJexK#T=KexwwtaxaQxT6TnaTttnJ}M#K=e66w=twttUwNt6aawt6nn}T#tJteMMKKeJao=Nw6N6wMtnaxt#6TMeTawK#JMxnNe=wa=wwnNxar%#a==M6tMJT}eN#TTe}aeK6x=RaTN66a.whnx}6{t=TeMw#K=J}X=NJ=NeetNnexGltTxe6Mnt#et(#N==}6JwJn=xK}Nxp6lMTtxJ#}n0K=t6}M=K}J<BJNn6KMNtwnXJK#x=#enMJKtJ}BM^}=TaJwqnKxx#wT}eaMxtwJn}}Nt=naMw}nexJ}JTK6}MwtrJa}wN6=Ma#wtn#xMnwTe6nM=tKaJ}w#M=aexw6KnxTO=J}6MaMteMa}=#t=Ne#M,KTwe36Nn6TT=t#nax}}eTJe=MTKNJN}8#T=xe}a=nTxN###N6}M6tJJT}K#xs#e<waKxK}BnTN6taJ6pn}}e#J}xeKw#KwKmKMNx=nanwKntx6#MNJNxMJtwJKx;Nw=haawxe6xn0tTt6eMMtJJe}a#K=Kewwwatxa0JT66nMTteMw}M#}=eNaw=KtxNxwN/6aa6t6n=}TfK=#=MM}KeJ=L=NN6NerwhKwJJ#6NweT6tK#Ja}}#J=Je:6TnNxwiS4a6xM=tnn}KNN#=Me}=LKJxT!K#FxwaowxnxJn#n=Teta#=wJ}}JNJ=KaKMtnwJx}}Tx6tMnK#JtZ#NM=}eawJKKxKsaTw6xMaMxn=}n#t=teMwMK#xexJ#a6Kawtwna}a#K=6=nM#KtJe2MNa6eeKt=tKxn#wT6eaMTK6JN!TNtTTaMwenexN#=T#eNMTtaJa}=N6FeaTwwn#xM&}TN#6M=tKJNKT#j=eexMT=nxT}}T#6=a}tenJJ=}==N6xMstnJx}6NnTTe#t#Knx}_JTJ=xMKwNnn}i#t=xenwntxxt##T#6}aKtJna}K#?=wesMtKxJtSnT#6taetMt}xw#JTweKMaKwJ6zaNM=tanwMnttK#MTxeeMJK=JaKtNw=iaa6Mn6xK#T#te#MMtxJe}6N=TwaNwwKNxaExT66#MTttJ#}Nx#=eetw=wnxNyMNj66axt#M=}T#t=#=wM}K6JJL=px6NaMwpn6xx#6TneTN}K#JM}}N6=Ja=wKKxxwiSTa6KaatnJT}ttxJ}r##x=eMTwwnJOT=xMa6}Ma}KTW6Kw#KMJ}wTn=xe%TNKeMaxKNxMTTen==a=wK,a=naNwJn=xKKxJ=xM#TtKn6}nNT=tNKN}6#MNK}n}}tLE==6JMTJwJaWaNe=#x#dMN}6eaJM}nK}N#wTP6aMxK6JnqTNt6#aMw}nNxJ#=TKeNMwtgJa}xcx=naTwtn#xMu}Te6JeatKJN}w#C=aexw6KeJ#mtT#6Ma#tenn}=#t=Ne6=MKaJxI6#x6Tawt#nMwt#eTJe=MtKNJw}!}aJta6wnnTxa##Ta6}Met#J=}KNN=MeVwaKxx68tTT6tM#ten}}e#JTN6awNKwJ8(TNx66antTKK}##MT}e6MJKNJK/N#a=CaawxnNxn#TTt6JaSt}Je}J0u=Ka#wwK{wNhxT66nMNttJ#}Mx}TneJw=KKJ}iwNx6aaxMtnn}T#t=#eMM}KeJJ}zNK6Nawwxnaxx#6Tn6wMtK#JM}}Ne=Ja=wKtKxw;ETa6KM6tnJT}tne=Me}weKnx=?KTN6#a{tanx}=#KTleaw#KMJ}wMnMJJaMwtnwxr#axx}e#w=teewMKwx#aTw=n=xK#NnN}##6=TeNMnnNxa0nw6KaxedJT=/6#JTJe#w=K6J#}TMjtJx#%MN}#TQMTN6wMJtKnnN=NJ=Maaw#nw=xaaw}nexJt=TM6nMwt(JaKKJ}Jt#NNJ6nxMU}Te6JM=wTJN}w#4=a#ww6KnxT)tT#6Ma}ak6T}=#K=Ne6MOKeJx-=Nn=}TNt#nMx}#NTJeTMKtxw#}3Na=x6xwnnNxt##xT6}MetJJT}KNN=wete}Kxx6InNK6taLtMnx}e#w}neKwNKwJM7aNJ66aM6Knt}##MNMeeMnK=nwwNNw=Oaawtn6xn#T#t=tMMt}Je}JN==6aNMatxxasJT66=MTttJ#JM#T=eenw=KtxNBaN^Taewt6nt}T#t=#6yM}weJT.=Nw6NaawzKLxx#6TMeTMaK#Ja}}Ne=J6=axnNxeqqT=6xMNtnJTt6N#==e}w6KJx=yK#NTTartTnx}##nTxetw#tJJ}_#NJ6NaKtNnwxZ#=Txe#Mnt}Jt}nNM=}egwJn#xKE}Tw6nMatxnx}nNN=texwMKJxe}JNn6KMNtwnM}a#J=6enTMKtx#kMNx6eaJt=x#}N#wTIea#6K6JnWTNw6#aMw}K=xt#=TKeNTat-Ja}x#TTTaTwtn#KJ_}Te6J6xtaJN}w#d=#exw=KnKtQtNJ ia}tenJxx#K=#ewMne}JxH6Nn=natwynMx}KKTJe=MKK#Jw}<NaTnm6wnnTxtxTTM6}MeMJwt}KNN=weWwatxx6}tN66ta}tMw=}e#J==eKMtKwJq-aNn66attTKMxw#MTxee6}K=JKENzw=JaawJn6xK#TNte#aet=Je}tN=}paNwwKGxa}eT66KMTtaJ#}e#}NeeJw=KwxNLwNmNJaxwTK=}T#a=#TtM}KeJJx=#e6Naew)n=xxJtTn=TaMK#J6}}NT=J=twKtNJavRT=6xMNtntT}tN#T=e}wTKJxN?KNX6wahw#nx}##n=Tetw#KMnJ}aNJ=}aKennwxX#aNnNJMntJJt}TNM=}aeMKK}xKsKTw6JMatxJ6xt##=tewwMaexeoJT==wa#twna}aJ6=6enwTtMJJiMN66e=}t=nK}N}wN=eaM=K6JN:T#t6#eeMenex##=}5eNMwtSJaxxN6=NaTMxn#xeG}#e6JM=w4JNx}#V#Jexa6K=xT}xT#=Ja}aenJ}=lu=N6JM<K6Jx_TNn6Tett#KKx}#6TJe=MKwGKJ}S#w=xNawnnTxt###J6}aMtJJT}K#+=wTWw=KxJarnxK6tTJtMnwxa#JTeeKM}KwJ}?aNJ66an6 nt}##MTJeeMJK=nwK6Nw=Naa=Jn6xn#TTt6nMMt#Jex}N==KaNawttxa}}T66KMTMNJ#JMg_=e6xw=tnxNJeNO6#e}t6KK}T#6=#eaM}KTJJW=xM6Naww?nTxx#6TneT=aK#JM}}#M=Ja=wKnNte{_Ta6xaXtnJT}tN#=ae}MaKJJT2KT#6w6Wwnnxxe#nTaetaxKMK}}MNJ=6aKwTnwKJ#aTM6eMntNJt9#NM=xaewtn=xKn}Tw6VMat#J6}nNT=tNxwMK}xe}}T=6KMNtwMJ}a#x=6eMwTKtx#qMxJ6eext=Kt}N#MTs66MnK6nJ-T#J6#aMw}teJz#=NneNatt;KM}x#T=KaTMtn#tM:}Te6JM=waJNxt#d=6exwTKnJ#}tT#=Ma}wwnJ}=#KNNeeM/taJx}6NnT=atM}MFx}/6TJ+}MKKNJw}83J=xe6wnn#xtZ}TM=JawtJnT}K#6=we(wawxJn(nNN6teptMtS}e1KTTeKaFKwtn<aNx66anw#ntJh#MTJeeMKK=nw}wNwTxaaw#n6xn#T#t6TMMwJJexKN=NnaNMaMMxa}KT6cnMTttJ#}MA6=e6Kw=KwxN_aN+=6ext6Kw}TlJ=#eMM}wennu=#M6Neew+tMxx>TNJeTaeK#wa}}Ne=Ja=MKnNJe1kT66xMTtnn#}MN#T=e}MwKJx=9K#N=NaIwTnxx##nN=eta}a&J}}#NJ#vaKtNnwx_}=Tx6#MnK#Jt}}NM#}eawJK6xKJjTw=MMawnnK}n&x=t=TwMK}xexJNx6KeJtwKK}aYM=66nM6KtJN)M}e6eeMt=KwxK#wNKeaa6K6Jn>TQt=xaMMtneJM#=NteNewtIJaxwN6TaaT=.n#JMKMTe=xM=wtJNx=#mTa6Kw6tnxTJ#T#=wa}w=n6}=ve=N#JM7KaJxx6Na6Te6t#KTx}}KTJ6NaeKNnT}5xK=xa6wnK#J6##N#6}=ttJJ=}K1W=eeEa}KxtwmnTT6tM#=Mn}x##JNneKMHKwn^w}Nx=6anwKntJn#MNJ=KMJw}JKKeNw=_aaaxn=xn}xTt=nMMw=JexKNN=K6nwwM=xa;xT6=taKttKt}MxT=eeJw=twJelw#M6a=Nt6nn}T#tTteMatKen6X=Nw6NewM6naJx#6}xeTa6K#tMwxNeTJa=a=nNJp!qN6=MM6waJT}wN#=Me}aeKex=}eTN==a3MMnxxTCx=T6=w#tTJ}%eNJ=N6PtNKNx HxTxe6Mnt#nt_#R9=}e=wJn=xK}:Ta6(extxnn}nNT=ta#TMK}J#GJ#K6Ka^twK1nK#xT6eneJKtnn-M#J=-aJM}nK}##wTBeaextaJnxxNtTnaMafneJKmtTK=nMwtaJa}xN6Tt6xwtttxMKnTe6JM=wwK6}wrM=ae6w6KnxT}M#x6Meetena}=#K=NewN8Kanw!6#T6TaMt#KMK}#eNJe=6=KNn=}I}aTNa6MnnTKx##}66}6ew6J=xKNN#teD6=KxJ}}JTT=6M#ten}}6#J=TeKwNaeJ-FaNx=6antTnt}#KwT}=!MJw}JK.NNw=Qe#wxt}xn#NTt6UMMM}nM}JAx=KeNwwtTxa}nNM6neKttK6}M#}=eeJMKKKnnFw#M6aant6tnx##tNKeMawKett?=NKTMawMMnaJw#6TneTMt=JJMxwNeT6a=wtnNJwxaTa=JM6aTJTxtN##M6JwetKx=JwTN#naBwaKJ}6-t=TT#w#tMJ}}=!?6=e6tNaJxW#aTx=6aJKTn=m##N=}6KwJKNxN#NNN6(eTtxJ6}n##=aa#alK}ttAJT=6Ke>a#nYJx#xN#enwTKtx#wTN}TSaJMKnKx(#wN&=xMxtTJn}KNtTKaMe}n6xJ!NTK==MwtwJaxn#w=n6Jwta6xM;}TeTJMTtKKn}w8t=a6Tw6ttJeHt#t6M=TtenJ}=swN}ewaMKatN(6Nn6TeMewnMJe#eD#e=MKKNJwMKNaTMa6MTnTxM##NM=}MewKJ=KJNNTTe1eatTx6}tTTTTM#w}n}x=#T==66wNKMJfuaNxT6aTtTK=}#uNT}=aMJtNnKXN#N=WTMwxn6xn(#T6e#e>t}nJ}JN==K63e#KXnxzxNn6nMTttK}Ja#}NneJMKKKxNkwN_TxaxM}nnJw#tT}eMa}KNJJ}NNKNnawMtnaJn}KTn=JMtt3JM}}NeNJetwKtnxw}tTaT}M6wtnt}trt=MeeweKJx=}wN#6weMtanM}6#n=T6M6wKMneqeN=6=aKtNKaw=#aN=e6MeKTJtr#NM=KaeMan=J##NTa6jaawKJ6xtNT#Ta#MNK}Ke>TT==wMNMMnFt>#x#6e=wTtMx#UTN}=KaJw=KM}N)eT2NxMxt6Jn}#;}6#eNw}atxJ#=TK=NMwt2n#}x%}=n6Mwtt}KN }#}6Je:tKJN}wgx=6exaJKnM}<tT#6MeJMhnJJK#K^JewMqKaJx}=NnTJatMMnMxJ#eNJ=KMKw}Jw}MNaTMa6entCxt}xTM=#MeeMJ=xw#M=w6twaaNx6GnTTTtM#tMKw}eGa===LwNtatt+a#a66aTtTnt}#;eNNeea6K=JN0NNw=de6wan6JT#TT#e#MMt}Je}eN=T6aNaFKkx68xN6=nMTwaJ#Kt#}NceJe=KTxN}eN;N^axwnnnx#De=#6NM}K6JJ_=NKTNaww:K#xx}}Tn==Mtw}e}}}h}=JNawKnNxw}xTN6xeJtnnt}tN#=M6JaKKJnKWK#M6waktaKn}##nNwetMMKMJ}VeNJ=6aKMnnwJe#aTne6anK#JtxxNMNwaeMan=JwHaTw=tMatJJ6}nNTNta#wMtwxe}aT=TnMNwaea}aYa=6eTwTKtx#}eNM6ee6t=Kn}N#wTr66atK6nToTN#6#aMw}K=JN#=N#eNewtAJa}xN6TJaTM=n#nxZ}T=6Ja=M}JNxe#(,^exa}KnJ#}6T#=Na}MJnJ}=#KNNewM?t#Jxx}Nn=aatM#aMx}}4TJ=xMKenJwxI_m=xeNwnKaxt}KTMN}e}tJn#}K}6=w=xwatnx#Fn#J6tT6tMn}}e}JT6eKanKwntGa#T66etwNntJt#MSTeeMJK=nwxxNwTMaaw6n6xn#TNMNwMMweJe}=N==KaNwweexa}MT6=TMTtMJ#xM#n=e6tw=KaxN}TNONaewt6Kw}T}6=#N6M}MeK.G=#M6N=#wFwexxx6T6eTaaK#nx}}xT=Ja=w6nNJT{FTe6xM6tnKTJ<N#T#e}MTKJnJSK#N3ta2MmnxJx#n8detMKtwJ}xJNJ=XaKt#nwxn#aTxNNMnKTJtxKNM=}aewJM#xK#NTw=JMatxJ6}nJ-=ta#wMKKxeIJT=6KT}twnR}a97=6enwTKtaJQM#M6ee=t=nt}N#aTTeaaaK6JKsTNt6#eeNaneJ6#=}weNMwtqKaxnN6T=aTMNn#wws}N==tM=wNJNK}#u=aexMTtMxTxcT#6ea}tenJxN(#=N=xMLw=Jx36Nn6TeJt#t-x}}KTJeTMKKNKx}hNa=xa=wnnTxt");local n=0;s.aPRSHhQM(function()s.PAYiWGjZ()n=n+1 end)local function e(t,e)if e then return n end;n=t+n;end local t,n,c=o(0,o,e,r,s.GTuuMzFY);local function l()local n,t=s.GTuuMzFY(r,e(1,3),e(5,6)+2);e(2);return(t*256)+n;end;local k=true;local k=0 local function _()local a=n();local e=n();local d=1;local a=(t(e,1,20)*(2^32))+a;local n=t(e,21,31);local e=((-1)^t(e,32));if(n==0)then if(a==k)then return e*0;else n=1;d=0;end;elseif(n==2047)then return(a==0)and(e*(1/0))or(e*(0/0));end;return s.bKXSokql(e,n-1023)*(d+(a/(2^52)));end;local p=n;local function y(n)local t;if(not n)then n=p();if(n==0)then return'';end;end;t=s.ezowQwcj(r,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+k),#t do e=e..s.ezowQwcj(t,n,n)end return e;end;local p=#s.v_TUyWYo(u('\49.\48'))~=1 local e=n;local function ae(...)return{...},s.ufSdXoGV('#',...)end local function te()local k={};local o={};local e={};local u={k,o,nil,e};local e=n()local r={}for a=1,e do local t=c();local n;if(t==1)then n=(c()~=#{});elseif(t==2)then local e=_();if p and s.SwnOIUjG(s.v_TUyWYo(e),'.(\48+)$')then e=s.JFxmphdk(e);end n=e;elseif(t==3)then n=y();end;r[a]=n;end;u[3]=c();for e=1,n()do o[e-(#{1})]=te();end;for s=1,n()do local e=c();if(t(e,1,1)==0)then local o=t(e,2,3);local h=t(e,4,6);local e={l(),l(),nil,nil};if(o==0)then e[d]=l();e[f]=l();elseif(o==#{1})then e[d]=n();elseif(o==b[2])then e[d]=n()-(2^16)elseif(o==b[3])then e[d]=n()-(2^16)e[f]=l();end;if(t(h,1,1)==1)then e[a]=r[e[a]]end if(t(h,2,2)==1)then e[d]=r[e[d]]end if(t(h,3,3)==1)then e[f]=r[e[f]]end k[s]=e;end end;return u;end;local function ne(t,e,n)local a=e;local a=n;return u(s.SwnOIUjG(s.SwnOIUjG(({s.aPRSHhQM(t)})[2],e),n))end local function p(ee,c,r)local function ne(...)local l,y,z,ne,b,n,u,g,k,j,_,t;local e=0;while-1<e do if e>=3 then if 4<e then if 5~=e then e=-2;else t=o(7);end else if e>=0 then for n=40,59 do if e>3 then j=s.ufSdXoGV('#',...)-1;_={};break;end;g={};k={...};break;end;else g={};k={...};end end else if e<1 then l=o(6,39,1,24,ee);y=o(6,44,2,30,ee);else if 1==e then z=o(6,1,3,78,ee);b=ae ne=0;else n=-41;u=-1;end end end e=e+1;end;for e=0,j do if(e>=z)then g[e-z]=k[e+1];else t[e]=k[e+1];end;end;local e=j-z+1 local e;local o;local function k(...)while true do end end while true do if n<-40 then n=n+42 end e=l[n];o=e[m];if 60<o then if 91>=o then if 75<o then if o<84 then if o>79 then if 82>o then if 80~=o then local e=e[a]t[e]=t[e]()else local h,b,s,c,u,o;for o=0,6 do if 3>o then if 1>o then t[e[a]]=t[e[d]][e[f]];n=n+1;e=l[n];else if-3<o then repeat if 1<o then t[e[a]][e[d]]=e[f];n=n+1;e=l[n];break;end;t[e[a]][e[d]]=t[e[f]];n=n+1;e=l[n];until true;else t[e[a]][e[d]]=e[f];n=n+1;e=l[n];end end else if 4<o then if 2<o then repeat if o<6 then t(e[a],e[d]);n=n+1;e=l[n];break;end;o=0;while o>-1 do if o>=3 then if 4>=o then if-1<o then repeat if o~=3 then u=h[b];break;end;c=h[s];until true;else c=h[s];end else if 4<=o then for e=23,84 do if 5~=o then o=-2;break;end;t(u,c);break;end;else t(u,c);end end else if o<1 then h=e;else if-2~=o then repeat if o>1 then s=d;break;end;b=a;until true;else s=d;end end end o=o+1 end until true;else t(e[a],e[d]);n=n+1;e=l[n];end else if 0~=o then for h=22,82 do if 4>o then t[e[a]]=r[e[d]];n=n+1;e=l[n];break;end;t[e[a]]=t[e[d]][e[f]];n=n+1;e=l[n];break;end;else t[e[a]]=r[e[d]];n=n+1;e=l[n];end end end end end else if 82==o then if(t[e[a]]~=t[e[f]])then n=n+1;else n=e[d];end;else t[e[a]][e[d]]=e[f];end end else if 78<=o then if 78==o then local e=e[a]t[e]=t[e]()else local a=e[a];local n=t[e[d]];t[a+1]=n;t[a]=n[e[f]];end else if o>73 then for h=10,76 do if 77>o then t[e[a]][e[d]]=t[e[f]];break;end;local s,h;for o=0,3 do if o<2 then if o~=-2 then for f=28,93 do if o~=1 then r[e[d]]=t[e[a]];n=n+1;e=l[n];break;end;for e=e[a],e[d]do t[e]=nil;end;n=n+1;e=l[n];break;end;else for e=e[a],e[d]do t[e]=nil;end;n=n+1;e=l[n];end else if o==2 then t[e[a]]=t[e[d]][e[f]];n=n+1;e=l[n];else s=e[a];h=t[e[d]];t[s+1]=h;t[s]=h[e[f]];end end end break;end;else t[e[a]][e[d]]=t[e[f]];end end end else if 87<o then if o>=90 then if o==91 then do return end;else local r;for o=0,6 do if o>2 then if 5<=o then if o>2 then repeat if 5<o then t[e[a]]=t[e[d]][e[f]];break;end;t[e[a]]=(e[d]~=0);n=n+1;e=l[n];until true;else t[e[a]]=(e[d]~=0);n=n+1;e=l[n];end else if-1<=o then repeat if 4>o then t[e[a]][e[d]]=e[f];n=n+1;e=l[n];break;end;t[e[a]][e[d]]=e[f];n=n+1;e=l[n];until true;else t[e[a]][e[d]]=e[f];n=n+1;e=l[n];end end else if o<=0 then r=e[a]t[r]=t[r](h(t,r+1,e[d]))n=n+1;e=l[n];else if o>-2 then for r=10,90 do if 2~=o then t[e[a]][e[d]]=t[e[f]];n=n+1;e=l[n];break;end;t[e[a]][e[d]]=e[f];n=n+1;e=l[n];break;end;else t[e[a]][e[d]]=t[e[f]];n=n+1;e=l[n];end end end end end else if 84<=o then for n=36,63 do if o<89 then local e=e[a]t[e](t[e+1])break;end;local n=e[a]t[n](h(t,n+1,e[d]))break;end;else local e=e[a]t[e](t[e+1])end end else if o>=86 then if o~=85 then repea
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local LocalPlayer = Players.LocalPlayer
+local Mouse = game.Players.LocalPlayer:GetMouse()
+local CamlockState = false
+local Prediction = 0.1768521
+local HorizontalPrediction = 0.1121076110
+local VerticalPrediction = 0.1034856
+local XPrediction = 20
+local YPrediction = 20
+
+local Players = game:GetService("Players")	
+local LP = Players.LocalPlayer	
+local Mouse = LP:GetMouse()	
+
+local Locked = true
+
+getgenv().Key = "q"
+
+
+function FindNearestEnemy()
+    local ClosestDistance, ClosestPlayer = math.huge, nil
+    local CenterPosition =
+        Vector2.new(
+        game:GetService("GuiService"):GetScreenResolution().X / 2,
+        game:GetService("GuiService"):GetScreenResolution().Y / 2
+    )
+
+    for _, Player in ipairs(game:GetService("Players"):GetPlayers()) do
+        if Player ~= LocalPlayer then
+            local Character = Player.Character
+            if Character and Character:FindFirstChild("HumanoidRootPart") and Character.Humanoid.Health > 0 then
+                local Position, IsVisibleOnViewport =
+                    game:GetService("Workspace").CurrentCamera:WorldToViewportPoint(Character.HumanoidRootPart.Position)
+
+                if IsVisibleOnViewport then
+                    local Distance = (CenterPosition - Vector2.new(Position.X, Position.Y)).Magnitude
+                    if Distance < ClosestDistance then
+                        ClosestPlayer = Character.HumanoidRootPart
+                        ClosestDistance = Distance
+                    end
+                end
+            end
+        end
+    end
+
+    return ClosestPlayer
+end
+
+local enemy = nil
+-- Function to aim the camera at the nearest enemy's HumanoidRootPart
+RunService.Heartbeat:Connect(
+    function()
+        if CamlockState == true then
+            if enemy then
+                local camera = workspace.CurrentCamera
+                camera.CFrame = CFrame.new(camera.CFrame.p, enemy.Position + enemy.Velocity * Prediction)
+            end
+        end
+    end
+)
+
+
+Mouse.KeyDown:Connect(function(k)	
+    if k == getgenv().Key then	
+            Locked = not Locked	
+            if Locked then	
+                enemy = FindNearestEnemy()
+                CamlockState = true
+             else	
+                if enemy ~= nil then	
+                    enemy = nil	
+                    CamlockState = false
+                end	
+            end	
+    end	
+ end)
+
+local Hellbound = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local UICorner = Instance.new("UICorner")
+local Logo = Instance.new("ImageLabel")
+local TextButton = Instance.new("TextButton")
+local UICorner_2 = Instance.new("UICorner")
+
+--Properties:
+
+Hellbound.Name = "Sinx camV2"
+Hellbound.Parent = game.CoreGui
+Hellbound.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Frame.Parent = Hellbound
+Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame.BorderColor3 = Color3.fromRGB(255, 255, 255)
+Frame.BorderSizePixel = 0
+Frame.Position = UDim2.new(0.133798108, 0, 0.20107238, 0)
+Frame.Size = UDim2.new(0, 202, 0, 70)
+Frame.Active = true
+Frame.Draggable = true
+
+local function TopContainer()
+	Frame.Position = UDim2.new(0.5, -Frame.AbsoluteSize.X / 2, 0, -Frame.AbsoluteSize.Y / 2)
+end
+
+TopContainer()
+Frame:GetPropertyChangedSignal("AbsoluteSize"):Connect(TopContainer)
+
+UICorner.Parent = Frame
+
+Logo.Name = "Logo"
+Logo.Parent = Frame
+Logo.BackgroundColor3 = Color3.fromRGB(100, 255, 100)
+Logo.BackgroundTransparency = 3.000
+Logo.BorderColor3 = Color3.fromRGB(255, 255, 255)
+Logo.BorderSizePixel = 0
+Logo.Position = UDim2.new(0.326732665, 0, 0, 0)
+Logo.Size = UDim2.new(0, 70, 0, 70)
+Logo.Image = "rbxassetid://7129155278"
+Logo.ImageTransparency = 0.300
+
+TextButton.Parent = Frame
+TextButton.BackgroundColor3 = Color3.fromRGB(101, 55, 229)
+TextButton.BackgroundTransparency = 5.000
+TextButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton.BorderSizePixel = 0
+TextButton.Position = UDim2.new(0.0792079195, 0, 0.18571429, 0)
+TextButton.Size = UDim2.new(0, 170, 0, 44)
+TextButton.Font = Enum.Font.SourceSansSemibold
+TextButton.Text = "sinxwareV2"
+TextButton.TextColor3 = Color3.fromRGB(255, 0, 0)
+TextButton.TextScaled = true
+TextButton.TextSize = 18.000
+TextButton.TextWrapped = true
+local state = true
+TextButton.MouseButton1Click:Connect(
+    function()
+        state = not state
+        if not state then
+            TextButton.Text = "sinxwareV2 on!"
+            CamlockState = true
+            enemy = FindNearestEnemy()
+        else
+            TextButton.Text = "sinxwareV2 off!"
+            CamlockState = false
+            enemy = nil
+        end
+    end
+)
+-- Function to hide the loading screen after a certain duration
+local function HideLoadingScreen()
+    LoadingScreen:Destroy()
+end
+
+NotifyLib.prompt('sinxware runs all', 'Loaded Sinx Cam!', 10)
